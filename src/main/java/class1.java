@@ -43,6 +43,6 @@ public class class1 {
 									{
 								System.out.println("search by voice is present");
 									}
-
+    driver.quit();
 	}
 }
